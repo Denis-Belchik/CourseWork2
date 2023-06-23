@@ -1,0 +1,28 @@
+### Добавить вопрос 1
+http://localhost:8080/exam/java/add?question=QuestionText1&answer=QuestionAnswer1
+### Добавить вопрос 2
+http://localhost:8080/exam/java/add?question=QuestionText2&answer=QuestionAnswer2
+
+### Удалить вопрос 1
+http://localhost:8080/exam/java/remove?question=QuestionText1&answer=QuestionAnswer1
+### Удалить вопрос 2
+http://localhost:8080/exam/java/remove?question=QuestionText2&answer=QuestionAnswer3
+
+### Вопросы
+http://localhost:8080/exam/java/
+
+### Тестирование
+http://localhost:8080/exam/get/9
+
+
+
+
+
+
+
+
+
+
+
+
+
